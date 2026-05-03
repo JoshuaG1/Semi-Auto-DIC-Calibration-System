@@ -1,4 +1,3 @@
-# Semi-Auto-DIC-Calibration-System
 # Sistema Mecatrónico para Automatización de Calibración DIC
 
 Este proyecto consiste en el desarrollo de un sistema mecatrónico diseñado para automatizar la rutina de calibración de cámaras en equipos de **Correlación Digital de Imágenes (DIC)**. El objetivo principal es reducir el error humano y aumentar la repetibilidad del proceso, logrando precisiones por debajo del límite de **0.04 píxeles** exigido por los estándares de medición.
